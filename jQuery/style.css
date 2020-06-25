@@ -1,0 +1,23 @@
+.square {
+	background-color: Red;
+	margin: 10px;
+	width: 300px;
+	height: 300px;
+}
+
+#circle {
+	background-color: Green;
+	margin: 10px;
+	width: 300px;
+	height: 300px;
+	border-radius: 100%;
+}
+
+#draggable {
+	background-color: Pink;
+	color: White;
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+	text-align: center;
+}
